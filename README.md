@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shmy1234.shmy1234" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YENOSven.YENOSven" alt="visitor badge"/>
 </div>
 
 <h1 align="center">Hi, I'm Alan Lu 👋</h1>
@@ -20,12 +20,12 @@
 ### 🔥 GitHub Stats
 <div align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=shmy1234&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=YENOSven&theme=dark&hide_border=false&border_radius=6" height="200" alt="GitHub streak"/>
   <br/>
 
   <!-- Stats + Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shmy1234&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=dark&hide_border=false" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmy1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YENOSven&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=dark&hide_border=false" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YENOSven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="Top languages"/>
 </div>
 
 ### 👩💻 About Me
